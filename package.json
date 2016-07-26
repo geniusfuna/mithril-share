@@ -1,0 +1,27 @@
+{
+  "name": "mithril-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "share.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geniusfuna/share.git"
+  },
+  "keywords": [
+    "qrcode",
+    "wechat",
+    "facebook",
+    "google+",
+    "weibo",
+    "telegram"
+  ],
+  "author": "Funa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geniusfuna/share/issues"
+  },
+  "homepage": "https://github.com/geniusfuna/share#readme"
+}
